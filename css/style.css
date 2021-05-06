@@ -1,0 +1,147 @@
+
+.container1 {
+  padding-top:100px;
+  padding-bottom:150px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 12%;
+  padding-right: 12%;
+  padding-bottom: 50px;
+  max-width: 1200px auto;
+
+}
+.cont{
+  padding-top:100px;
+  
+
+
+}
+.titulo{
+  margin: 0px 0px;
+  background-color: #9D2449;
+  border-color: #9D2449;
+  border-style: solid;
+  border-width: 2px;
+  padding-top: 9px;
+  padding-bottom: 5px;
+  padding-right: 25px;
+  padding-left: 25px;
+  text-align:center;
+  font-size: 12px;
+  color: #fff;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  height: 50px;
+  font-size: 16px;
+}
+
+.variante{
+  margin: 0px 0px ;
+  background-color: #DDDDDD;
+  border-color: #DDDDDD;
+  border-style: solid;
+  border-width: 2px;
+  padding-top: 10px;
+  /*padding-top: 10px;
+  padding-right: 25px;
+  padding-bottom: 0px;
+  padding-left: 25px;*/
+  text-align:left;
+  font-size: 13px;
+  color: #000000;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  min-height: 40px ;
+
+
+
+
+}
+
+.dato{
+  margin: 0px 0px ;
+  border-color: #DDDDDD;
+  border-style: solid;
+  background-color: #FFFFFF;
+  border-width: 2px;
+  padding-top: 10px;
+/*  padding-top: 5px;
+  padding-right: 25px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+  */
+  text-align: left;
+  text-overflow: clip;
+  font-size: 16px;
+  word-wrap: break-word;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  min-height: 40px ;
+  overflow: hidden;
+
+}
+
+.sin_borde{
+  border-top-color: initial;
+  border-top-style: none;
+  border-top-width: initial;
+  border-right-color: initial;
+  border-right-style: none;
+  border-right-width: initial;
+  border-bottom-color: initial;
+  border-bottom-style: none;
+  border-bottom-width: initial;
+  border-left-color: initial;
+  border-left-style: none;
+  border-left-width: initial;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+}
+.cuadro{
+border-style: solid;
+border: 2px;
+border-color:#DDDDDD;
+}
+th{
+  font-size: 12px;
+}
+
+.tabmod{
+
+  margin-top: 20px;
+  background-color: #DDDDDD;
+  border-style: solid;
+  border-color: #DDDDDD;
+  font-size: 12px;
+
+}
+
+.observacion{
+
+  overflow:auto;
+
+}
+
+.rowvariante{
+  background-color: #DDDDDD;
+}
+.separador{
+ margin-bottom: 50px;
+
+
+}
+.reductor{
+  overflow:auto;
+}
+.invisible{
+  display: none;
+}
